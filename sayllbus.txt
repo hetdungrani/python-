@@ -1,0 +1,20 @@
+AEC 
+ch 1 ,2 ,3.2 ,3.3 ,3.5
+
+CFA
+ch 1,2,3,4(journal,cash book),5
+
+OS
+ch 1,2,3,5
+
+PS
+ch 1 ,2,3,4
+
+RDBMS
+ch 1,2,3,4
+
+SEC
+ch 1,2,3
+
+BKS
+ch 1,yam and niyam
